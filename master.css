@@ -198,8 +198,9 @@ body {
     margin: 10%;
 }
 
+/* home */
 .home {
-    height: fit-content;
+    height: 100vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -215,7 +216,7 @@ body {
     width: 90%;
     font-size: 1.75rem;
     text-align: center;
-    color: blanchedalmond;
+    color: whitesmoke;
 }
 
 .home h1 span {
@@ -232,11 +233,12 @@ body {
     width: 100%;
 }
 
+/* vision */
 .vision {
-    height: fit-content;
+    height: 100vh;
     width: 100%;
     padding: 0 10%;
-    color: blanchedalmond;
+    color: whitesmoke;
     display: flex;
     flex-direction: column;
 }
